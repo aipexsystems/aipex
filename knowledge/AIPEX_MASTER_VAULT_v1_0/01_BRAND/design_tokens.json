@@ -1,0 +1,26 @@
+{
+  "colors": {
+    "primary": "#4F46E5",
+    "surface": "#0F172A",
+    "accent": "#14B8A6"
+  },
+  "spacing": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "radius": [
+    8,
+    12,
+    20
+  ],
+  "fonts": {
+    "heading": "Inter",
+    "body": "Inter"
+  }
+}
