@@ -1,0 +1,32 @@
+:root {
+  --color-primary: #0f172a;
+  --color-secondary: #334155;
+  --color-accent: #2563eb;
+
+  --color-background: #ffffff;
+  --color-background-muted: #f8fafc;
+
+  --color-success: #16a34a;
+  --color-warning: #d97706;
+  --color-danger: #dc2626;
+
+  --font-sans: Inter, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-pill: 9999px;
+
+  --container-narrow: 768px;
+  --container-standard: 1280px;
+  --container-wide: 1440px;
+}
